@@ -107,6 +107,7 @@ lifestyle|travel/tourism|VRT 1|MIJN EERSTE REIS
 entertainment|music|VRT 1|HET GROTE SONGFESTIVALFEEST
 entertainment|game|VRT 1|IK HEB HET U LETTERLIJK JUIST GEZEGD
 fiction|action|VTM2|JACK REACHER, NEVER GO BACK
+fiction|action|VTM2|JACK REACHER
 information|current affair|VTM|MOORDZAKEN, WETSDOKTERS
 sport|football|VTM2|VB. C1 UEFA 1/2F - FC.BARCELONA/INT. MILAAN
 sport|football|VTM2|VB. C1 UEFA 1/2F - ARSENAL/PARIS-ST-G.
@@ -194,6 +195,7 @@ fiction|thriller|VRT CANVAS|WHITE OUT
 information|current affair|VRT 1|DE DAG VAN VANDAAG
 entertainment|talk|PLAY4|ZONDER STERREN
 sport|cycling (road)|VRT 1|WIELRENNEN. CLASSIC BRUGGE-DE PANNE H.
+sport|cycling (road)|EEN|MOUNTAINBIKE.  CROCODILE TROPHY
 sport|football|VTM|VB. NATIONS LEAGUE UEFA - BELGIE/OEKRAINE
 entertainment|humour|VRT 1|TABOE
 fiction|action|VTM2|PEARL HARBOR
@@ -1178,6 +1180,7 @@ sport|other sports|VTM2|DARTS. BLAKLADER OPEN
 sport|basketball|VRT 1|BASKET. BB. FIN H. - CHARLEROI/LIMBURG
 knowledge|human interest/society|VRT 1|REASONS TO LOVE
 lifestyle|travel/tourism|VRT 1|GINO'S ITALIAN EXPRESS
+lifestyle|travel/tourism|EEN|GINO'S ITALIAN EXPRESS
 sport|cycling (road)|VRT 1|WIELRENNEN. PARIJS-NICE - RIT 6 SISTERON>LA COLLE-SUR-LOUP
 fiction|psychologic drama/melodrama|VRT CANVAS|GREEN BOOK
 sport|football|VRT CANVAS|VB. C4 UEFA SCHIFT - UNION ST-GILLOISE/FENERBAHCE
@@ -1193,6 +1196,7 @@ sport|other sports|VTM2|DARTS. UK OPEN
 sport|formula 1|VRT 1|F1. WK. GP. BAHRAIN (S.)
 sport|cycling (road)|VRT 1|WIELRENNEN. STRADE BIANCHE H.
 sport|cycling (road)|VRT 1|WIELRENNEN. STRADE BIANCHE D.
+sport|cycling (road)|CANVAS|WIELRENNEN. STRADE BIANCHE D.
 fiction|action|VTM|NO TIME TO DIE
 knowledge|nature/environment|VRT 1|CANADA, SURVIVING THE WILD NORTH
 sport|cycling (road)|VRT CANVAS|WIELRENNEN. STRADE BIANCHE D.
@@ -1472,6 +1476,7 @@ entertainment|variety|VTM|DANK U, DANY
 sport|cycling (road)|VRT 1|WIELRENNEN. VUELTA - RIT 10 VALLADOLID>VALLADOLID
 lifestyle|show business/variety/stars|VTM|MET DE JORIS
 sport|cycling (road)|VRT 1|WIELRENNEN. VUELTA - RIT 9 CARTAGENA>COLLADO DE LA CRUZ DE CA
+sport|cycling (road)|EEN|WIELRENNEN. VUELTA - RIT 7 UTIEL>OLIVA
 fiction|police|VRT 1|INSPECTOR MORSE
 lifestyle|cooking/food/drink|VRT 1|STANLEY TUCCI SEARCHING FOR ITALY
 sport|rally|VRT 1|AUTO. RALLY BK. ROESELARE (S.)
@@ -1481,6 +1486,7 @@ fiction|action|VTM|THE PATRIOT
 fiction|psychologic drama/melodrama|VRT CANVAS|SPENCER
 entertainment|humour|VRT CANVAS|XANDER DE RYCKE, DIT TERZIJDE
 entertainment|variety|VRT 1|ZOMERAVONDEN
+entertainment|variety|EEN|ZOMERAVONDEN
 sport|cycling (road)|VRT 1|WIELRENNEN. VUELTA - RIT 6 LA VALL D'UIXO>PICO DEL BUITRE
 sport|football|VTM2|VB. C4 UEFA SCHIFT - CL.BRUGGE/OSASUNA
 knowledge|architecture/urbanism|VRT CANVAS|L'ALHAMBRA, FORTERESSE MEDITERRANEENNE
@@ -2602,6 +2608,7 @@ fiction|police|Canvas|A CONFESSION
 fiction|thriller|Canvas|BEAST
 sport|cycling (road)|Canvas|WIELRENNEN. RONDE VAN FRANKRIJK - RIT 1 KOPENHAGEN>KOPENHAGEN
 fiction|action|VTM3|JACK REACHER
+fiction|action|VTM2|BLACKLIGHT
 knowledge|humanities/history|Canvas|FRONTLINIE - NIEMANDSLAND
 entertainment|variety|EEN|BUURMAN, WAT DOET U NU?
 knowledge|humanities/history|Canvas|METISSEN VAN BELGIE - JACQUELINE
@@ -3287,6 +3294,7 @@ sport|cycling (road)|Canvas|HET SCHELDEPELOTON
 sport|football|ELEVEN PRO LEAGUE 1 NL|VB. BK - STANDARD/ANDERLECHT
 knowledge|humanities/history|Canvas|NAPOLEON, LA DESTINEE ET LA MORT
 sport|cycling (road)|EEN|WIELRENNEN. PRIMUS CLASSIC
+sport|cycling (road)|VTM|WIELRENNEN. PRIMUS CLASSIC
 fiction|action|VTM2|MECHANIC, RESURRECTION
 knowledge|human interest/society|EEN|DE TIJD VAN ONS LEVEN
 sport|football|Canvas|VB. C3 UEFA SCHIFT - OLYMPIACOS/ANTWERPEN
