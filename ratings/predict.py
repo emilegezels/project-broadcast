@@ -40,7 +40,8 @@ from nltk.corpus import stopwords
 def parse_arguments():
     """Parse command line arguments"""
     parser = argparse.ArgumentParser(description='Predict TV ratings from a CSV file')
-    parser.add_argument('input_file', help='Path to the input CSV file')
+    parser.add_argument('input_file', nargs='?', default='input_voor_examen.csv', 
+                       help='Path to the input CSV file (default: input_voor_examen.csv)')
     return parser.parse_args()
 
 def load_input_data(file_path):
